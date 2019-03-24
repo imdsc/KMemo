@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">备忘录</string>
+    <string name="cre_memo_des">CreateANewMemo</string>
+    <string name="title_activity_create_memo">新增备忘录</string>
+    <string name="insert_title_hint">输入标题</string>
+    <string name="insert_content_hint">输入内容</string>
+    <style name="confirm_exit_activity_create_memo">是否保存当前备忘录</style>
+    <string name="str_save">保存</string>
+    <string name="str_save_and_exit">保存并退出</string>
+    <string name="str_cancel">取消</string>
+    <string name="str_confirm">确认</string>
+    <string name="str_update">更新</string>
+    <string name="str_yes">是</string>
+    <string name="str_no">否</string>
+</resources>
